@@ -5,7 +5,6 @@ public class Assignment1Loopcase {
 		
 		//Assignment - all calendar months in the year
 		//switch cases and if else
-		
 		//Switch
 		byte month = 5;
 		switch(month)
